@@ -1,0 +1,92 @@
+{
+    "Software Developer": {
+        "description": "We are looking for a skilled Software Developer to join our team. The ideal candidate should have experience in Python, Java, SQL, and Web Development.",
+        "skills_required": ["Python", "Java", "SQL", "Git", "Web Development", "Algorithms", "Data Structures"],
+        "experience_required": 2
+    },
+    "AI/ML Engineer": {
+        "description": "We are seeking an AI/ML Engineer with experience in machine learning algorithms, neural networks, and deep learning models. Expertise in Python, TensorFlow, and PyTorch is a must.",
+        "skills_required": ["Machine Learning", "Deep Learning", "Python", "TensorFlow", "PyTorch", "Data Science", "AI"],
+        "experience_required": 3
+    },
+    "Software Tester": {
+        "description": "We need a Software Tester to join our quality assurance team. Experience in manual and automated testing, debugging, and bug tracking is required.",
+        "skills_required": ["Manual Testing", "Automated Testing", "Bug Tracking", "JIRA", "Selenium", "API Testing"],
+        "experience_required": 1
+    },
+    "AI Expert Intern": {
+        "description": "We are offering an internship opportunity for an AI Expert. Candidates should have a strong understanding of AI concepts, machine learning, and neural networks.",
+        "skills_required": ["Artificial Intelligence", "Machine Learning", "Python", "TensorFlow", "Data Science", "NLP"],
+        "experience_required": 0
+    },
+    "Data Analyst": {
+        "description": "We are looking for a Data Analyst to help derive insights from data using statistical methods and data visualization tools. Experience with Python, Excel, and SQL is essential.",
+        "skills_required": ["Data Analysis", "Excel", "SQL", "Python", "Data Visualization", "Statistics", "Power BI", "Tableau"],
+        "experience_required": 1
+    },
+    "DevOps Engineer": {
+        "description": "We need a DevOps Engineer who has experience in continuous integration, automation, cloud technologies, and Linux-based systems.",
+        "skills_required": ["DevOps", "CI/CD", "Cloud Computing", "AWS", "Docker", "Linux", "Automation", "Terraform"],
+        "experience_required": 3
+    },
+    "Backend Developer": {
+        "description": "We are looking for a Backend Developer to build the server-side logic and databases. Experience with Node.js, Django, and database management systems is preferred.",
+        "skills_required": ["Node.js", "Django", "Java", "Database Management", "RESTful APIs", "SQL", "NoSQL"],
+        "experience_required": 2
+    },
+    "Frontend Developer": {
+        "description": "We need a Frontend Developer with expertise in HTML, CSS, JavaScript, and frameworks like React or Angular to build user-friendly web interfaces.",
+        "skills_required": ["HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js", "Responsive Design"],
+        "experience_required": 1
+    },
+    "Full Stack Developer": {
+        "description": "We are hiring a Full Stack Developer who can work on both frontend and backend. Proficiency in React, Node.js, and database technologies is required.",
+        "skills_required": ["React", "Node.js", "JavaScript", "SQL", "NoSQL", "Git", "HTML", "CSS"],
+        "experience_required": 3
+    },
+    "Cyber Security Expert": {
+        "description": "We need a Cyber Security Expert to safeguard our systems from potential cyber threats. Expertise in ethical hacking, firewalls, and intrusion detection is required.",
+        "skills_required": ["Cyber Security", "Ethical Hacking", "Firewalls", "Intrusion Detection", "Penetration Testing", "Linux"],
+        "experience_required": 4
+    },
+    "Java Developer": {
+        "description": "We are looking for a Java Developer to create and manage Java-based applications. Strong understanding of Java and object-oriented programming is essential.",
+        "skills_required": ["Java", "Spring Boot", "Hibernate", "SQL", "Web Services", "Git", "REST APIs"],
+        "experience_required": 2
+    },
+    "Android Developer": {
+        "description": "We need an Android Developer to design and build mobile applications for Android. Proficiency in Java or Kotlin, and experience with Android SDK is required.",
+        "skills_required": ["Android Development", "Java", "Kotlin", "Android SDK", "Firebase", "UI/UX Design", "REST APIs"],
+        "experience_required": 1
+    },
+    "iOS Developer": {
+        "description": "We are seeking an iOS Developer to create applications for Apple's ecosystem. Experience with Swift, Objective-C, and iOS frameworks is required.",
+        "skills_required": ["iOS Development", "Swift", "Objective-C", "Xcode", "Apple SDK", "Cocoa Touch", "REST APIs"],
+        "experience_required": 2
+    },
+    "Cloud Solutions Architect": {
+        "description": "We need a Cloud Solutions Architect with experience designing and managing scalable cloud infrastructure. Expertise in AWS, Azure, or Google Cloud is essential.",
+        "skills_required": ["Cloud Computing", "AWS", "Azure", "Google Cloud", "Infrastructure as Code", "Terraform", "Docker"],
+        "experience_required": 4
+    },
+    "Machine Learning Engineer": {
+        "description": "We are looking for a Machine Learning Engineer who can implement machine learning algorithms to process and analyze data. Proficiency in Python, TensorFlow, and scikit-learn is required.",
+        "skills_required": ["Machine Learning", "Python", "TensorFlow", "scikit-learn", "Data Science", "Statistics", "NLP"],
+        "experience_required": 3
+    },
+    "Blockchain Developer": {
+        "description": "We need a Blockchain Developer to build decentralized applications using blockchain technology. Knowledge of Solidity and Ethereum is essential.",
+        "skills_required": ["Blockchain", "Solidity", "Ethereum", "Smart Contracts", "DApps", "Cryptography", "Node.js"],
+        "experience_required": 2
+    },
+    "Product Manager": {
+        "description": "We are hiring a Product Manager to oversee the development and launch of new products. Experience in product development, team management, and market research is required.",
+        "skills_required": ["Product Management", "Agile", "Scrum", "Market Research", "Team Management", "Roadmap Planning"],
+        "experience_required": 4
+    },
+    "UX/UI Designer": {
+        "description": "We need a UX/UI Designer to improve the user experience and create aesthetically pleasing designs. Proficiency in tools like Figma, Sketch, and Adobe XD is required.",
+        "skills_required": ["UX Design", "UI Design", "Figma", "Sketch", "Adobe XD", "Wireframing", "Prototyping", "User Research"],
+        "experience_required": 2
+    }
+}
